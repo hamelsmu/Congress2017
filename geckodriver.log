@@ -1,0 +1,347 @@
+1486013337169	geckodriver	INFO	Listening on 127.0.0.1:53334
+1486013338132	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.savjPNPBSEm6
+1486013338133	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486013338152	geckodriver::marionette	INFO	Connecting to Marionette on localhost:53345
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486013338817	Marionette	INFO	Listening on port 53345
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1e74a0615b6f5a0c0961.b6f68508f5cb.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 4047: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/inspector.js, line 4047: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [inIDeepTreeWalker.parentNode]
+1486015193257	geckodriver	INFO	Listening on 127.0.0.1:57565
+1486015194224	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.mkZj18nVLqqS
+1486015194225	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015194228	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57576
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015194621	Marionette	INFO	Listening on port 57576
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1e74a0615b6f5a0c0961.b6f68508f5cb.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486015247161	geckodriver	INFO	Listening on 127.0.0.1:57711
+1486015248126	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.CTSGgechBeqV
+1486015248127	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015248129	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57722
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015248496	Marionette	INFO	Listening on port 57722
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1e74a0615b6f5a0c0961.b6f68508f5cb.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486015277011	geckodriver	INFO	Listening on 127.0.0.1:57803
+1486015277974	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.GojhtDt2AIJf
+1486015277976	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015277978	geckodriver::marionette	INFO	Connecting to Marionette on localhost:57814
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015278356	Marionette	INFO	Listening on port 57814
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1e74a0615b6f5a0c0961.b6f68508f5cb.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486015388676	geckodriver	INFO	Listening on 127.0.0.1:58100
+1486015389640	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.r9KfnF9pvIYO
+1486015389641	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015389644	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58111
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015390008	Marionette	INFO	Listening on port 58111
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: https://normandy.cdn.mozilla.net/static/bundles/selfrepair-1e74a0615b6f5a0c0961.b6f68508f5cb.js, line 7: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486015603790	geckodriver	INFO	Listening on 127.0.0.1:58678
+1486015604753	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.RIUwJWLgbdFA
+1486015604755	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015604757	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58690
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015605134	Marionette	INFO	Listening on port 58690
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1173:17
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1173:17
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+*************************
+A coding exception was thrown in a Promise rejection callback.
+See https://developer.mozilla.org/Mozilla/JavaScript_code_modules/Promise.jsm/Promise
+
+Full message: TypeError: this.browser.getBrowserForTab is not a function
+Full stack: BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1173:17
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+*************************
+Marionette threw an error: TypeError: this.browser.getBrowserForTab is not a function
+BrowserObj.prototype.hasRemotenessChange@chrome://marionette/content/driver.js:3182:25
+BrowserObj.prototype.executeWhenReady@chrome://marionette/content/driver.js:3213:7
+GeckoDriver.prototype.sendAsync@chrome://marionette/content/driver.js:223:5
+send/<@chrome://marionette/content/proxy.js:138:7
+send@chrome://marionette/content/proxy.js:105:12
+ownPriorityGetterTrap.get/<@chrome://marionette/content/proxy.js:24:25
+GeckoDriver.prototype.get@chrome://marionette/content/driver.js:1173:17
+TaskImpl_run@resource://gre/modules/Task.jsm:319:40
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+TaskImpl_handleResultValue@resource://gre/modules/Task.jsm:388:16
+TaskImpl_run@resource://gre/modules/Task.jsm:327:13
+TaskImpl@resource://gre/modules/Task.jsm:280:3
+createAsyncFunction/asyncFunction@resource://gre/modules/Task.jsm:254:14
+Task_spawn@resource://gre/modules/Task.jsm:168:12
+Dispatcher.prototype.execute@chrome://marionette/content/dispatcher.js:120:13
+Dispatcher.prototype.onPacket@chrome://marionette/content/dispatcher.js:91:5
+DebuggerTransport.prototype._onJSONObjectReady/<@chrome://marionette/content/server.js -> resource://devtools/shared/transport/transport.js:479:9
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:101:14
+
+1486015676857	geckodriver	INFO	Listening on 127.0.0.1:58861
+1486015677819	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.O4KXNpiarBjb
+1486015677821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015677823	geckodriver::marionette	INFO	Connecting to Marionette on localhost:58872
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015678215	Marionette	INFO	Listening on port 58872
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+1486015977384	geckodriver	INFO	Listening on 127.0.0.1:59601
+1486015978354	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.agZj9wy7zqrI
+1486015978355	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486015978358	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59612
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486015978754	Marionette	INFO	Listening on port 59612
+1486016144786	geckodriver	INFO	Listening on 127.0.0.1:59985
+1486016145748	mozprofile::profile	INFO	Using profile path /var/folders/0w/p50zlf7n6mbbxfprr0ycxr9c0000gn/T/rust_mozprofile.sLMcnmuHDp7s
+1486016145750	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486016145752	geckodriver::marionette	INFO	Connecting to Marionette on localhost:59996
+[warn] kq_init: detected broken kqueue; not using.: Undefined error: 0
+1486016146135	Marionette	INFO	Listening on port 59996
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: resource://gre/modules/commonjs/toolkit/loader.js -> resource://gre/modules/commonjs/sdk/system/environment.js, line 15: Proxy.create and Proxy.createFunction are deprecated, use new Proxy instead
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript error: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 97: TypeError: n is null
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
+JavaScript warning: http://www.tweetcongress.org/bundle.js?7f4a8eff8e62049243a0, line 51: mutating the [[Prototype]] of an object will cause your code to run very slowly; instead create the object with the correct initial [[Prototype]] value using Object.create
